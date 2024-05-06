@@ -2,6 +2,9 @@
 My first repository
 
 
+![462603_4381654_updates](https://github.com/ceshiree/app-dev/assets/169012436/359a7086-c4cb-4e49-88a5-ce7f0a525989)
+
+
 ```markdown
 # My Favorite Movies and Series
 
